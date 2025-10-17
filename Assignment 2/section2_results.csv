@@ -1,0 +1,5 @@
+Setting,Accuracy
+saga (no scaling),0.813953488372093
+liblinear (no scaling),0.9767441860465116
+saga (+ scaling),1.0
+liblinear (+ scaling),1.0
